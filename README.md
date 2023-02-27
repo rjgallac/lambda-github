@@ -1,6 +1,12 @@
 # Welcome to your CDK JavaScript project
 
-This is a blank project for CDK development with JavaScript.
+Test deploy nodejs lambda to aws using github actions.
+
+## install instructions
+
+npm i
+cdk bootstrap
+cdk deploy
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app. The build step is not required when using JavaScript.
 
